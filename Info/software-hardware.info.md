@@ -1,5 +1,6 @@
 # Homelab Übersicht
 
+=== Wichtige Hardware- und Software-Informationen ===
 
 ---
 
